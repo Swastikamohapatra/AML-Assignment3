@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.1.1, pluggy-1.4.0
+rootdir: /mnt/e/VSCode/Applied-ML/Assignment-3-Swastika
+plugins: anyio-3.7.1, cov-4.1.0
+collected 8 items
+
+test.py ........                                                         [100%]
+
+---------- coverage: platform linux, python 3.10.12-final-0 ----------
+Name       Stmts   Miss  Cover
+------------------------------
+app.py        17      6    65%
+score.py       4      0   100%
+test.py       76      0   100%
+------------------------------
+TOTAL         97      6    94%
+
+
+============================== 8 passed in 37.91s ==============================
